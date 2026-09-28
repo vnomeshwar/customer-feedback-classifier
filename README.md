@@ -37,6 +37,53 @@ Category: Refund
 Priority: High
 Department: Finance
 ```
+## Project Screenshots
+
+### Example 1
+
+**Input**
+
+![Example 1 Input](screenshots/Example_01_Input.png)
+
+**Output**
+
+![Example 1 Output](screenshots/Example_01_Output.png)
+
+### Example 2
+
+**Input**
+
+![Example 2 Input](screenshots/Example_02_Input.png)
+
+**Output**
+
+![Example 2 Output](screenshots/Example_02_Output.png)
+
+### Example 3
+
+**Input**
+
+![Example 3 Input](screenshots/Example_03_Input.png)
+
+**Output**
+
+![Example 3 Output](screenshots/Example_03_Output.png)
+
+### Example 4
+
+**Input**
+
+![Example 4 Input](screenshots/Example_04_Input.png)
+
+**Output**
+
+![Example 4 Output](screenshots/Example_04_Output.png)
+
+### API Preview
+
+![API Preview 1](screenshots/Preview_1.png)
+
+![API Preview 2](screenshots/Preview_2.png)
 
 ## Categories
 
