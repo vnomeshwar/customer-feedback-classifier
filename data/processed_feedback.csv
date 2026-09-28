@@ -1,0 +1,41 @@
+feedback,category,cleaned_feedback
+My application crashes whenever I try to log in,Technical Issue,application crashes whenever try log
+I cannot access my account,Technical Issue,cannot access account
+The website shows an error during checkout,Technical Issue,website shows error checkout
+The mobile app keeps freezing,Technical Issue,mobile app keeps freezing
+I am unable to reset my password,Technical Issue,unable reset password
+The payment page is not loading,Technical Issue,payment page not loading
+My app stopped working after the update,Technical Issue,app stopped working update
+I cannot upload my documents,Technical Issue,cannot upload documents
+The website is very slow,Technical Issue,website slow
+I cannot complete my order,Technical Issue,cannot complete order
+My payment was deducted but the order was not placed,Refund,payment deducted order not placed
+I was charged twice for the same order,Refund,charged twice order
+I want a refund for my cancelled order,Refund,want refund cancelled order
+My refund has not been credited,Refund,refund not credited
+I received the wrong product and want my money back,Refund,received wrong product want money back
+I was charged for an order I cancelled,Refund,charged order cancelled
+Please process my refund,Refund,please process refund
+I have been waiting for my refund,Refund,waiting refund
+I need my payment returned,Refund,need payment returned
+Please return my money,Refund,please return money
+I am extremely unhappy with the service,Complaint,extremely unhappy service
+The customer service was disappointing,Complaint,customer service disappointing
+My issue has still not been resolved,Complaint,issue still not resolved
+I contacted support multiple times without help,Complaint,contacted support multiple times without help
+The delivery experience was terrible,Complaint,delivery experience terrible
+I am frustrated with the repeated delays,Complaint,frustrated repeated delays
+I am disappointed with the service,Complaint,disappointed service
+Nobody is responding to my support request,Complaint,nobody responding support request
+I want to raise a formal complaint,Complaint,want raise formal complaint
+The service was very poor,Complaint,service poor
+The product quality is excellent,Praise,product quality excellent
+I am very happy with the service,Praise,happy service
+The delivery was fast and smooth,Praise,delivery fast smooth
+Your customer support team was very helpful,Praise,customer support team helpful
+I had a great experience shopping with you,Praise,great experience shopping
+The product exceeded my expectations,Praise,product exceeded expectations
+Thank you for the excellent service,Praise,thank excellent service
+Everything arrived on time,Praise,everything arrived time
+I appreciate the quick response from support,Praise,appreciate quick response support
+I am satisfied with my purchase,Praise,satisfied purchase

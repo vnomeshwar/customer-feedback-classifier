@@ -1,0 +1,41 @@
+feedback,category
+"My application crashes whenever I try to log in",Technical Issue
+"I cannot access my account",Technical Issue
+"The website shows an error during checkout",Technical Issue
+"The mobile app keeps freezing",Technical Issue
+"I am unable to reset my password",Technical Issue
+"The payment page is not loading",Technical Issue
+"My app stopped working after the update",Technical Issue
+"I cannot upload my documents",Technical Issue
+"The website is very slow",Technical Issue
+"I cannot complete my order",Technical Issue
+"My payment was deducted but the order was not placed",Refund
+"I was charged twice for the same order",Refund
+"I want a refund for my cancelled order",Refund
+"My refund has not been credited",Refund
+"I received the wrong product and want my money back",Refund
+"I was charged for an order I cancelled",Refund
+"Please process my refund",Refund
+"I have been waiting for my refund",Refund
+"I need my payment returned",Refund
+"Please return my money",Refund
+"I am extremely unhappy with the service",Complaint
+"The customer service was disappointing",Complaint
+"My issue has still not been resolved",Complaint
+"I contacted support multiple times without help",Complaint
+"The delivery experience was terrible",Complaint
+"I am frustrated with the repeated delays",Complaint
+"I am disappointed with the service",Complaint
+"Nobody is responding to my support request",Complaint
+"I want to raise a formal complaint",Complaint
+"The service was very poor",Complaint
+"The product quality is excellent",Praise
+"I am very happy with the service",Praise
+"The delivery was fast and smooth",Praise
+"Your customer support team was very helpful",Praise
+"I had a great experience shopping with you",Praise
+"The product exceeded my expectations",Praise
+"Thank you for the excellent service",Praise
+"Everything arrived on time",Praise
+"I appreciate the quick response from support",Praise
+"I am satisfied with my purchase",Praise
