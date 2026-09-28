@@ -81,9 +81,9 @@ Department: Finance
 
 ### API Preview
 
-![API Preview 1](screenshots/Preview_1.png)
+![API Preview 1](screenshots/Preview%201.png)
 
-![API Preview 2](screenshots/Preview_2.png)
+![API Preview 2](screenshots/Preview%202.png)
 
 ## Categories
 
